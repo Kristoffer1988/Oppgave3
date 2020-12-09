@@ -1,0 +1,15 @@
+2020-11-13T21:00:48.8589292+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-13T21:00:48.8705558+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-13T21:00:48.8725591+01:00  [INF] Content root path: "C:\Users\Bruker\lærertest\Oppgave3\Oppgave3" (b5d60022)
+2020-11-13T21:00:55.6794851+01:00  [ERR] Browserslist: caniuse-lite is outdated. Please run:
+ (02daff8f)
+2020-11-13T21:13:40.0025098+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-13T21:13:40.0158229+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-13T21:13:40.0182632+01:00  [INF] Content root path: "C:\Users\Bruker\lærertest\Oppgave3\Oppgave3" (b5d60022)
+2020-11-13T21:13:45.2778592+01:00  [ERR] Browserslist: caniuse-lite is outdated. Please run:
+ (02daff8f)
+2020-11-13T21:17:18.7649833+01:00 80000031-0003-ff00-b63f-84710c7967bb [INF] Lagrer nytt spørreskjema: 
+ qwerty
+qwerty@hotmail.no
+ qwertyytrewq (b9fa81a8)
+2020-11-13T21:17:18.8923473+01:00 80000031-0003-ff00-b63f-84710c7967bb [INF] Skjema ble lagret! (172c0307)

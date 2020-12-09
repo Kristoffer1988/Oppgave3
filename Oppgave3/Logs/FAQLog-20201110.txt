@@ -1,0 +1,65 @@
+2020-11-10T20:21:54.2816983+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-10T20:21:54.2935185+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-10T20:21:54.2957580+01:00  [INF] Content root path: "C:\Users\Bruker\lærertest\Oppgave3\Oppgave3" (b5d60022)
+2020-11-10T20:22:03.6444481+01:00  [ERR] Browserslist: caniuse-lite is outdated. Please run:
+ (02daff8f)
+2020-11-10T20:22:39.5215934+01:00 80000004-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 11 til 12 (e80c010c)
+2020-11-10T20:22:39.6315199+01:00 80000004-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:39.8964146+01:00 80000005-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 12 til 11 (01d58113)
+2020-11-10T20:22:39.9153113+01:00 80000005-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:40.6367462+01:00 80000006-0004-fe00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 11 til 12 (e80c010c)
+2020-11-10T20:22:40.6576809+01:00 80000006-0004-fe00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:41.2320065+01:00 80000007-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 12 til 11 (01d58113)
+2020-11-10T20:22:41.2506985+01:00 80000007-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:41.9874569+01:00 80000008-0004-fe00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 5 til 6 (8ebd503b)
+2020-11-10T20:22:42.0049534+01:00 80000008-0004-fe00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:42.3825108+01:00 80000009-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 6 til 5 (15f02c63)
+2020-11-10T20:22:42.4065776+01:00 80000009-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:42.9039744+01:00 8000000a-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 5 til 6 (8ebd503b)
+2020-11-10T20:22:42.9263562+01:00 8000000a-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:43.4694348+01:00 8000000b-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 6 til 5 (15f02c63)
+2020-11-10T20:22:43.4968000+01:00 8000000b-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:47.0179833+01:00 8000000c-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 11 til 12 (e80c010c)
+2020-11-10T20:22:47.0422850+01:00 8000000c-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:48.2826491+01:00 8000000d-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 5 til 6 (8ebd503b)
+2020-11-10T20:22:48.3074886+01:00 8000000d-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:49.3022715+01:00 8000000e-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 6 til 5 (15f02c63)
+2020-11-10T20:22:49.3266180+01:00 8000000e-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:53.2357002+01:00 8000000f-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 12 til 11 (01d58113)
+2020-11-10T20:22:53.2689516+01:00 8000000f-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:22:54.8249288+01:00 80000010-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 5 til 6 (8ebd503b)
+2020-11-10T20:22:54.8493159+01:00 80000010-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:23:16.8409529+01:00 80000013-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 34 til 33
+Endrer dislikes: 11 til 12 (e80c010c)
+2020-11-10T20:23:16.8748471+01:00 80000013-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:23:17.5649047+01:00 80000014-0004-ff00-b63f-84710c7967bb [INF] Endrer likes: 33 til 34
+Endrer dislikes: 6 til 5 (15f02c63)
+2020-11-10T20:23:17.5861993+01:00 80000014-0004-ff00-b63f-84710c7967bb [INF] FAQ endret (1fa8dcba)
+2020-11-10T20:24:40.7066891+01:00 8000001e-0004-fe00-b63f-84710c7967bb [INF] Lagrer nytt spørreskjema: 
+Kristoffer
+kgl_1988@hotmail.no
+qwerty qwerty werty qwerty qwerty (8bfb8c02)
+2020-11-10T20:24:40.7524707+01:00 8000001e-0004-fe00-b63f-84710c7967bb [INF] Skjema ble lagret! (172c0307)
+2020-11-10T20:43:13.6454512+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-10T20:43:13.6608996+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-10T20:43:13.6631585+01:00  [INF] Content root path: "C:\Users\Bruker\lærertest\Oppgave3\Oppgave3" (b5d60022)
+2020-11-10T20:43:20.3167411+01:00  [ERR] Browserslist: caniuse-lite is outdated. Please run:
+ (02daff8f)
+2020-11-10T20:44:19.2385073+01:00 80000009-0001-ff00-b63f-84710c7967bb [INF] Lagrer nytt spørreskjema: 
+Michelle
+michelle@hot.no
+qwerty (7fafe834)
+2020-11-10T20:44:19.3685977+01:00 80000009-0001-ff00-b63f-84710c7967bb [INF] Skjema ble lagret! (172c0307)

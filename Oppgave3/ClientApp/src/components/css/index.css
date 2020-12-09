@@ -1,0 +1,153 @@
+﻿body {
+    background: url(../bilder/nordlys.jpg) no-repeat center center;
+    background-size: cover;
+    height: 120vh;
+}
+
+.toolbar {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+a.nav-link {
+    font-size: 4vh;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 4.5vh;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 6vh;
+    color: white;
+}
+
+.navbar {
+    border-radius: 25px;
+    padding: 50px;
+    box-shadow: 1px 1px 1px 1px white;
+}
+
+.inputMargin {
+    margin: 1vh;
+}
+
+.cardInnhold {
+    font-size: 1.5vh;
+    color: black;
+    font-weight: bold;
+}
+
+.likeBilde {
+    background-color: transparent;
+}
+
+.toggleInnhold {
+    display: inline-block;
+    left: 0;
+}
+
+.toggleUtseende.card-header {
+    height: 5vh;
+    color: black;
+    font-size: 2vh;
+    font-weight: bold;
+    background-color: white;
+}
+
+.likerKnapper {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+
+.accordianBakgrunn {
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.card {
+    box-shadow: 1px 1px 1px 1px white;
+    background-color: transparent;
+}
+
+.container.accordianBakgrunn {
+    background-color: transparent;
+}
+
+.skjema {
+    color: white;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px white;
+    background-color: rgba(0, 0, 0, .5);
+    height: 50vh;
+}
+
+.svar {
+    color: white;
+    font-size: 2vh;
+    text-shadow: 1px 1px black;
+}
+
+.innsendteSpørsmål {
+    color: white;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.container {
+    margin: auto;
+}
+
+.stiltSpørsmål {
+    box-shadow: 1px 1px 1px 1px white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 2vh;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.stiltSpørsmålNavn {
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    font-size: 2vh;
+}
+
+.pil {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    padding: 1vh;
+}
+
+.pilBilde {
+    transition-duration: 1s;
+}
+
+.filter {
+    width: 10vw;
+    height: 5vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    box-shadow: 1px 1px 1px 1px white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 2vh;
+    background-color: rgba(0, 0, 0, 0.6);
+    color:white;
+}
