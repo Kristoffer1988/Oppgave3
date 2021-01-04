@@ -6,6 +6,6 @@ Backend:
 
 .NET Core og C# 
 
-Frontend
+Frontend:
 
 React Javascript XML
